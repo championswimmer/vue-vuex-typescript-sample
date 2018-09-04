@@ -14,6 +14,9 @@
     "types": [
       "node"
     ],
+    "typeRoots": [
+      "typedefs"
+    ],
     "paths": {
       "@/*": [
         "src/*"

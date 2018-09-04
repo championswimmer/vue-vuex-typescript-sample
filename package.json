@@ -18,6 +18,7 @@
   "devDependencies": {
     "@vue/cli-plugin-typescript": "^3.0.1",
     "@vue/cli-service": "^3.0.1",
+    "tslint-config-standard": "^8.0.1",
     "typescript": "^3.0.0",
     "vue-auto-routing": "^0.2.0",
     "vue-cli-plugin-auto-routing": "^0.1.2",
