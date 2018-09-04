@@ -12,12 +12,15 @@
     "vue-class-component": "^6.0.0",
     "vue-property-decorator": "^7.0.0",
     "vue-router": "^3.0.1",
+    "vue-router-layout": "^0.1.2",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-typescript": "^3.0.1",
     "@vue/cli-service": "^3.0.1",
     "typescript": "^3.0.0",
+    "vue-auto-routing": "^0.2.0",
+    "vue-cli-plugin-auto-routing": "^0.1.2",
     "vue-template-compiler": "^2.5.17"
   }
 }
