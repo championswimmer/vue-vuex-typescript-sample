@@ -18,6 +18,7 @@
           <router-link class="navbar-item" to="/users">Users</router-link>
           <router-link class="navbar-item" to="/posts">Posts</router-link>
           <router-link class="navbar-item" to="/albums">Albums</router-link>
+          <router-link class="navbar-item" to="/todos">Todos</router-link>
         </div>
       </div>
     </nav>
@@ -25,11 +26,10 @@
   </div>
 </template>
 <script lang="ts">
-import {Vue, Component} from 'vue-property-decorator'
+import { Vue, Component } from 'vue-property-decorator'
 
 @Component
 export default class DefaultLayout extends Vue {
   menuOpen = false
 }
-
 </script>
